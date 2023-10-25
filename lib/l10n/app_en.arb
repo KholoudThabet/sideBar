@@ -1,0 +1,16 @@
+{
+    "first":"First",
+    "second":"Second",
+    "third":"Third",
+    "personalInfo":"Personal Info",
+    "name":"Name",
+    "email":"Email ",
+    "next":"Next",
+    "back":"Back",
+    "courseInfo":"Course Info ",
+    "instructor":"Instructor",
+    "notes":"Additional Notes",
+    "save":"Save",
+    "required":"Required"
+
+}
